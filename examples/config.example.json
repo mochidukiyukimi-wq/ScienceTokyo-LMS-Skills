@@ -1,0 +1,15 @@
+{
+  "portal": {
+    "username": "00B00000",
+    "password": "your_science_tokyo_password",
+    "totp_secret": "BASE32_TOTP_SECRET_HERE",
+    "matrixcode": {
+      "a1": "legacy-field-kept-for-compatibility"
+    }
+  },
+  "moodle": {
+    "base_url": "https://lms.s.isct.ac.jp/2025/",
+    "ws_token": "",
+    "user_id": 12345
+  }
+}
